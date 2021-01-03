@@ -2,7 +2,11 @@ venv/
 
 .idea/
 
+__pycache__/
+
 
 prasanthTest
 
 prasanth@test1
+
+push_to_git.py
